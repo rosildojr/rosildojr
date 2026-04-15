@@ -8,7 +8,7 @@
 
 ## 📚 Sobre mim
 
-Atualmente curso ** Bacharelado em Sistemas de Informação na Centro Universitário Internacional (UNINTER)**, onde desenvolvo conhecimentos em:
+Atualmente curso **Bacharelado em Sistemas de Informação na Centro Universitário Internacional (UNINTER)**, onde desenvolvo conhecimentos em:
 - Lógica de programação
 - Desenvolvimento de software
 - Banco de dados
