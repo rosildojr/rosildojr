@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Rosildo Junior
 
-🎓 Estudante de **Sistemas de Informação** na **UNINTER**  
+🎓 Estudante de **Sistemas de Informação** no **Centro Universitário Internacional (UNINTER)**  
 💻 Em constante aprendizado nas áreas de tecnologia, programação e sistemas  
 🚀 Buscando evolução profissional e oportunidades na área de TI
 
@@ -8,7 +8,7 @@
 
 ## 📚 Sobre mim
 
-Atualmente curso **Bacharelado em Sistemas de Informação na Centro Universitário Internacional (UNINTER)**, onde desenvolvo conhecimentos em:
+Atualmente curso **Bacharelado em Sistemas de Informação no Centro Universitário Internacional (UNINTER)**, onde desenvolvo conhecimentos em:
 - Lógica de programação
 - Desenvolvimento de software
 - Banco de dados
